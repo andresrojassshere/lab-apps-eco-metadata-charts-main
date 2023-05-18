@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "camilo",
+      "email": "camilo@gmail.com",
+      "phone": "3183876225",
+      "privacyAgreement": true,
+      "date": "Wed May 17 2023",
+      "timeStamp": "01:29",
+      "OS": "Windows"
+    },
+    {
+      "id": 2,
+      "name": "Andres Camilo Rojas Almanza",
+      "email": "andres.camilo.rojas@outlook.com",
+      "phone": "3183876225",
+      "privacyAgreement": true,
+      "date": "Wed May 17 2023",
+      "timeStamp": "01:29",
+      "OS": "Windows"
+    },
+    {
+      "id": 3,
+      "name": "a",
+      "email": "a@hmail.com",
+      "phone": "a",
+      "privacyAgreement": true,
+      "date": "Wed May 17 2023",
+      "timeStamp": "01:30",
+      "OS": "Windows"
+    },
+    {
+      "id": 4,
+      "name": "Andres Camilo Rojas Almanza",
+      "email": "andres.camilo.rojas@outlook.com",
+      "phone": "3183876225",
+      "privacyAgreement": true,
+      "date": "Wed May 17 2023",
+      "timeStamp": "01:34",
+      "OS": "Windows"
+    },
+    {
+      "id": 5,
+      "name": "felipe",
+      "email": "pipe@gmail.com",
+      "phone": "3183876226",
+      "privacyAgreement": true,
+      "date": "Wed May 17 2023",
+      "timeStamp": "07:28",
+      "OS": "Windows"
+    }
+  ]
+}
